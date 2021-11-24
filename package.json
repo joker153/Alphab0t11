@@ -1,5 +1,5 @@
 {
-  "name": "Alphabot",
+  "name": "MINNALMURALI",
   "version": "11.8.3",
   "description": "WhatsApp bot Nodejs",
   "zeeone": "zeeone.js",
@@ -45,15 +45,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc"
+    "url": "git+https://github.com/joker153"
   },
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "MINNALMURALI",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": "https://github.com/joker153"
   },
   "homepage": "https://github.com/zeeoneofc"
 }

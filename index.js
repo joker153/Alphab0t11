@@ -149,9 +149,9 @@ SEBAGIAN LU EDIT DI SETTING.JSON
 var nomor_ovo = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_dana = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_gopay = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_ovo = 'https://h.top4top.io/p_2053vk0uw1.jpg' //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_dana = 'https://j.top4top.io/p_20532posd1.jpg' //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_ovo = 'https://d.top4top.io/p_2155yr7p90.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_dana = 'https://d.top4top.io/p_2155yr7p90.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_gopay = 'https://d.top4top.io/p_2155yr7p90.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
 var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
 var __minggu = 'Rp 15.000,00'
@@ -193,8 +193,8 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
+baper = 'Amalser'
+apiku = 'https://t.me/+-XZsS6y66zI0YWZl'
 gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
@@ -374,7 +374,7 @@ await alpha.updatePresence(from, Presence.composing)
 		try {
 					pp_userb = await alpha.getProfilePicture(sender)
 				} catch {
-					pp_userb = 'https://i.ibb.co/rvsVF3r/5012fbb87660.png'
+					pp_userb = 'https://i.ibb.co/vLdgJC2/106.jpg' 
 				}
 			let pp_userz = await getBuffer(pp_userb)
 		const getGroupAdminss = (participants) => {
@@ -2178,7 +2178,7 @@ let papakpo = [{
 											},
 										"type": "RESPONSE"
 										}]
-								sendButLocation(from, userProcfile , `NOTE ！\nJika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w\n\n${botname}™© | By ${ownername}`,pp_userz, papakpo, {contextInfo: { mentionedJid: [sender]}})
+								sendButLocation(from, userProcfile , `NOTE ！\nJika whatsapp mod kamu belum support button silahkan tonton video ini https://t.me/+-XZsS6y66zI0YWZl\n\n${botname}™© | By ${ownername}`,pp_userz, papakpo, {contextInfo: { mentionedJid: [sender]}})
 }
 break
 	case 'verify': case 'daftar':
@@ -2338,7 +2338,7 @@ break
 											},
 										"type": "RESPONSE"
 										}]
-								sendButLocation(from, allmenu(prefix, wita, wit, ucapannya2 , timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat), `NOTE ！\nJika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w\n\n${botname}™© | By ${ownername}`,pp_userz, papao, {})
+								sendButLocation(from, allmenu(prefix, wita, wit, ucapannya2 , timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat), `NOTE ！\nJika whatsapp mod kamu belum support button silahkan tonton video ini https://t.me/+-XZsS6y66zI0YWZl\n\n${botname}™© | By ${ownername}`,pp_userz, papao, {})
                 break
         case 'trigger':
 					var imgbb = require('imgbb-uploader')
@@ -4836,7 +4836,7 @@ case 'tahta':
                    F = q
                    reply(lang.wait())
                    tahta = await getBuffer(`${ApiZeks}/api/hartatahta?text=${F}&apikey=${zeksApikey}`)
-                   tahtah = `${lang.success()}\n\nPlease Subscribe https://youtu.be/w4iQ4rwA0mo`
+                   tahtah = `${lang.success()}\n\nPlease Subscribe https://t.me/+-XZsS6y66zI0YWZl`
                    sendImageMaker(tahta, tahtah, sender)
                   break
        case 'ytgold':  
@@ -4844,7 +4844,7 @@ case 'tahta':
                    F = q
                    reply(lang.wait())
                    ytgold = await getBuffer(`${ApiZeks}/api/gplaybutton?text=${F}&apikey=${zeksApikey}`)
-                   ytgoldp = `${lang.success()}\n\nPlease Subscribe https://youtu.be/w4iQ4rwA0mo`
+                   ytgoldp = `${lang.success()}\n\nPlease Subscribe https://t.me/+-XZsS6y66zI0YWZl`
                    sendImageMaker(ytgold, ytgoldp, sender)
                    break  
        case 'ytsilver':  
@@ -4852,7 +4852,7 @@ case 'tahta':
                    F = q
                    reply(lang.wait())
                    ytsilver = await getBuffer(`${ApiZeks}/api/splaybutton?text=${F}&apikey=${zeksApikey}`)
-                   ytsilverp = `${lang.success()}\n\nPlease Subscribe https://youtu.be/w4iQ4rwA0mo`
+                   ytsilverp = `${lang.success()}\n\nPlease Subscribe https://t.me/+-XZsS6y66zI0YWZl`
                    sendImageMaker(ytsilver, ytsilverp, sender)
                    break              
      case 'nulis':

@@ -1,6 +1,6 @@
 const petik = '```'
 const help = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)=> {
-	return`┌❏ *INDIAN TIME*
+	return`┌❏ *INDONESIA TIME*
 ${petik}│◦➛ WIB : ${timuu}
 │◦➛ WITA : ${wita}
 └❏ WIT : ${wit}${petik}
@@ -60,7 +60,7 @@ ${petik}├❒ Source
 ├❒ Group_support
 └❒ Ownerbot${petik}
 
-❒ _Creator Amal © 2K21_ ❒
+❒ _Creator BotWea © 2K21_ ❒
 `
 }
 const convert = (prefix) => {
@@ -89,7 +89,7 @@ ${petik}├❒ ${prefix}ytmp3${petik} _link_
 ${petik}├❒ ${prefix}ytmp4${petik} _link_
 ${petik}├❒ ${prefix}ig${petik} _link_
 ${petik}├❒ ${prefix}igphoto${petik} _link_
-${petik}├❒ ${prefix}igvideo${petik} _link_
+${petik}├❒ ${prefix}insta${petik} _link_
 ${petik}├❒ ${prefix}igtv${petik} _link_
 ${petik}├❒ ${prefix}igreels${petik} _link_
 ${petik}├❒ ${prefix}twitter${petik} _link_
@@ -110,9 +110,9 @@ ${petik}└❒ ${prefix}anime${petik} _random_
 `
 }
 const allmenu = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)  => {
-	return`❏───「 *MINNALMURALI BOT* 」───❏
+	return`❏───「 *ALPHA BOT* 」───❏
      
-┌❏ *INDIAN TIME*
+┌❏ *INDONESIA TIME*
 ${petik}│◦➛ WIB : ${timuu}
 │◦➛ WITA : ${wita}
 └❏ WIT : ${wit}${petik}
@@ -891,7 +891,7 @@ ${petik}│◦ ${prefix}rikagusriani
 │
 └─❑「 MENU BOT 」
 
-❏───「 *MINNALMURALI BOT* 」───❏
+❏───「 *ALPHA BOT* 」───❏
 `
 }
 
